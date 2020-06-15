@@ -1,0 +1,41 @@
+{
+  "createdAt": "2020-06-04T22:28:45.060Z",
+  "createdBy": {
+    "attributes": {
+      "email": "rogelio@generation.org",
+      "middle_name": "Vargas",
+      "name": "Rogelio",
+      "organization": "1",
+      "picture": "https://pm1.narvii.com/7232/5b7b4860193606793c45c18861935518f31b143fr1-863-720v2_128.jpg",
+      "position": "Developer"
+    },
+    "username": "117a0949-8c6d-4e36-8cc4-822e467c8176"
+  },
+  "id": "0203d71f-09c2-4d83-8d8a-ac970ec943c1",
+  "locationId": "11",
+  "organizationId": "1",
+  "programId": "1",
+  "sections": [
+    {
+      "order": 0,
+      "stages": [
+        "9178f117-d9b2-412b-8d9c-fa65cf99badc"
+      ],
+      "title": "Let's get started"
+    }
+  ],
+  "status": "draft",
+  "title": "Ping Pong Varsovia 2",
+  "updatedAt": "2020-06-04T22:28:45.789Z",
+  "updatedBy": {
+    "attributes": {
+      "email": "rogelio@generation.org",
+      "middle_name": "Vargas",
+      "name": "Rogelio",
+      "organization": "1",
+      "picture": "https://pm1.narvii.com/7232/5b7b4860193606793c45c18861935518f31b143fr1-863-720v2_128.jpg",
+      "position": "Developer"
+    },
+    "username": "117a0949-8c6d-4e36-8cc4-822e467c8176"
+  }
+}
